@@ -1,0 +1,1 @@
+# test-svelte-component-in-node_module
